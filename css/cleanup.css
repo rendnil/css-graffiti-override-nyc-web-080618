@@ -23,7 +23,12 @@
   
 }
 
-#wall div.parent+div.parent+div.parent div:last-child div#tag-6{
+#wall div.parent+div.parent+div.parent div:last-child #tag-6{
   display: none;
   
 } 
+
+div#wall div.parent div > #tag-7.slick{
+  display: none;
+  
+}
